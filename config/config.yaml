@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/Devian158/AI-Internship-Task/commit/fa98be29eac49e6e4ec8fae0b6cf8591831d15e4
+  local_data_file: artifacts/data_ingestion/data.zip
+  

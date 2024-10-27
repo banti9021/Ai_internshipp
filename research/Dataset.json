@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "671b4b25e852ff6f229664fb"
+  },
+  "field1": "value1",
+  "field2": 123
+},
+{
+  "_id": {
+    "$oid": "671b4b4de852ff6f229664fe"
+  },
+  "field1": "value1",
+  "field2": 123
+},
+{
+  "_id": {
+    "$oid": "671b4b9ae852ff6f22966500"
+  },
+  "field1": "value1",
+  "field2": 123
+}]

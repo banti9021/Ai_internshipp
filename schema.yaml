@@ -1,0 +1,8 @@
+features:
+  - name: feature1
+    type: float
+  - name: feature2
+    type: int
+target:
+  name: target
+  type: float

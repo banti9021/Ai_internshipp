@@ -1,0 +1,5 @@
+model:
+  criterion: "mse"
+  max_depth: 5
+  min_samples_split: 2
+  random_state: 42
